@@ -19,7 +19,7 @@ ___
 
 #### Autumn 2021-22 
 
-- **CS101** Introduction To Computing by *Dr. Clint P. George*
+- **CS101** [Introduction To Computing]( https://clintpgeorge.github.io/cs-101/autumn-2021/) by *Dr. Clint P. George*
 - **ELPP:** English Language Proficiency program by *Dr. Neeraja Raghavan*
 - **PH101:** Quantum physics by *Dr. Santosh Kumar Das*
 - **HS101:**>Foundation Programme in Humanities by *Dr. Sabiha Hashami*>
@@ -30,12 +30,12 @@ ___
 
 #### Spring 2021-22
 
-1. *CS102:* Software Tools by Dr. Clint P. George
-2. *PH102:* Electricity by Vaibhav Sir
-3. *NO102:* Physical Education by Santosh Sir
-4. *MTH1021:* Linear Algebra by Kalpesh Haria Sir
-5. *BIO101:* Biotechnology by Dr. Sreenath Blakrishnan
-6. *PH104:* Physics lab by Sudipta Kanungo
+1. *CS102:* [Software Tools]( https://clintpgeorge.github.io/cs-101/summmer-2021/) by ___Dr. Clint P. George___
+2. *PH102:* Electricity by ___Vaibhav Sir___
+3. *NO102:* Physical Education by ___Santosh Sir___
+4. *MTH1021:* Linear Algebra by ___Kalpesh Haria Sir___
+5. *BIO101:* Biotechnology by ___Dr. Sreenath Blakrishnan___
+6. *PH104:* Physics lab by ___Sudipta Kanungo___
 
 
 #### Awards 
